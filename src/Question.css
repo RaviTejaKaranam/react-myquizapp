@@ -1,0 +1,30 @@
+.quiz-header {
+  padding: 4rem;
+}
+.quiz-header h2 {
+  padding: 1rem;
+  text-align: center;
+}
+.quiz-header ul {
+  list-style: none;
+}
+.timer{
+  color: rgb(245, 109, 109);
+  font-weight: bold;
+  text-align: center;
+}
+.quiz-header ul li {
+  margin: 1rem 0;
+}
+.quiz-header label {
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+label{
+  margin-left: 5px;
+}
+.results{
+  padding: 40px 0;
+  text-align: center;
+  border-radius: 5px;
+}
